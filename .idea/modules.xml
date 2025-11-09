@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/skybuild.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/skybuild.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/skybuild.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/skybuild.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/skybuild.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/skybuild.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/skybuild.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/skybuild.fabric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/skybuild.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/skybuild.fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/skybuild.neoforge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/skybuild.neoforge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/skybuild.neoforge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/skybuild.neoforge.test.iml" />
+    </modules>
+  </component>
+</project>
